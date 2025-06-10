@@ -11,7 +11,7 @@ A comprehensive web-based mine safety monitoring and emergency response system d
 ## 🌟 Features
 
 ### 🔐 Authentication System
-- **Multi-role User Management**: Support for Miners, Supervisors, Safety Officers, and Rescue Teams
+- **Multi-role User Management**: Support for Miners and Supervisors
 - **Secure Login/Registration**: Role-based access control with personalized dashboards
 - **Session Management**: Secure user sessions with automatic logout functionality
 
